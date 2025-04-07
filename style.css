@@ -12,7 +12,7 @@ body {
   padding: 2rem;
 }
 
-/* HEADER */
+
 header {
   background-color: #161621;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
@@ -47,7 +47,7 @@ nav a:hover {
   outline: 2px dashed #c2c8ff;
 }
 
-/* HERO */
+
 .hero {
   text-align: center;
   background: linear-gradient(135deg, #1a1b2f, #0e0e17);
@@ -93,7 +93,7 @@ nav a:hover {
   outline: 2px dashed #c2c8ff;
 }
 
-/* SECTIONS */
+
 section {
   padding: 3rem 0;
 }
@@ -104,7 +104,7 @@ h2 {
   margin-bottom: 1rem;
 }
 
-/* PROJECTS */
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -129,7 +129,6 @@ h2 {
   font-size: 0.95rem;
 }
 
-/* FOOTER */
 footer {
   background: #161621;
   padding: 1.5rem 0;
